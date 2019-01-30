@@ -35,3 +35,9 @@ Cadastro de planos de acesso, na mesma tela voce pode cadastrar planos e compart
 <img width="1614" alt="captura de tela 2019-01-30 as 19 15 37" src="https://user-images.githubusercontent.com/3342262/52013311-d9095180-24c3-11e9-82cb-3c379d18d9f4.png">
 
 Cadastro de de Clientes 
+
+<img width="1622" alt="captura de tela 2019-01-30 as 19 15 52" src="https://user-images.githubusercontent.com/3342262/52013369-02c27880-24c4-11e9-8ad8-541f1559eac2.png">
+
+Cadastro de Assinantes
+
+<img width="1602" alt="captura de tela 2019-01-30 as 19 16 03" src="https://user-images.githubusercontent.com/3342262/52013388-179f0c00-24c4-11e9-93e5-7d583166824c.png">
