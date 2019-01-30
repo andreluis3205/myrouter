@@ -46,3 +46,5 @@ Ordem de Serviço
 
 <img width="1609" alt="captura de tela 2019-01-30 as 19 22 47" src="https://user-images.githubusercontent.com/3342262/52013540-72d0fe80-24c4-11e9-9dc6-587b2ef55a09.png">
 
+
+* Entre outros muitos recursos disponível 
