@@ -6,11 +6,6 @@ ini_set("display_errors", 1);
 error_reporting(1);
 ini_set("track_errors","1");
 
-$filename = 'config/conexao.php';
-//if (!file_exists($filename)) {
-//	header("Location: setup/instalar.php");
-//}
-
 header("Content-Type: text/html; charset=ISO-8859-1", true);
     require_once 'config/conexao.class.php';
     require_once 'config/crud.class.php';
