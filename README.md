@@ -32,3 +32,6 @@ Para acesso ao Terminal do Linux, a senha do usuário root é: myrouter
 
 Cadastro de planos de acesso, na mesma tela voce pode cadastrar planos e compartilhar com uso de MikroTik, Ubiquiti e Juniper
 
+<img width="1614" alt="captura de tela 2019-01-30 as 19 15 37" src="https://user-images.githubusercontent.com/3342262/52013311-d9095180-24c3-11e9-82cb-3c379d18d9f4.png">
+
+Cadastro de de Clientes 
