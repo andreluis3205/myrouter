@@ -26,3 +26,9 @@ senha: myrouter
 
 
 Para acesso ao Terminal do Linux, a senha do usuário root é: myrouter
+
+
+# Screen MyRouter
+
+Cadastro de planos de acesso, na mesma tela voce pode cadastrar planos e compartilhar com uso de MikroTik, Ubiquiti e Juniper
+
