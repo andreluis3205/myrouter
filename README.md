@@ -70,6 +70,23 @@ sed -i 's/query_cache_size = 16M/query_cache_size  = 128M/' /etc/mysql/my.cnf
 
 ```
 
+* Configurando Mysql
+
+Criando configurando a senha do root do MySQL
+
+```
+mysqladmin -u root password 33#erp@myrouter#33 1>/dev/null 2>/dev/null
+
+```
+
+Exportando o banco de dados
+
+
+```
+mysql -p33#erp@myrouter#33 < /var/www/myrouter/sql/myrouter.sql 1>/dev/null 2>/dev/null
+
+```
+
 # Telas do MyRouter
 
 Cadastro de planos de acesso, na mesma tela voce pode cadastrar planos e compartilhar com uso de MikroTik, Ubiquiti e Juniper
