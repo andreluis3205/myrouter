@@ -69,8 +69,9 @@ sed -i 's/post_max_size = 8M/post_max_size = 3G/' /etc/php5/apache2/php.ini
 sed -i 's/query_cache_size = 16M/query_cache_size  = 128M/' /etc/mysql/my.cnf
 
 ```
-* Coreção do acesso ao rootno banco de dados MariaDB
+* Coreção do acesso ao root no banco de dados MariaDB
 
+caso voce tenho instalado o MariaDB ele vem ja com um bug no acesso ao root via socket, com os comando abaixo voce corrige esse problema.
 ```
 mysql -u root
 use mysql
