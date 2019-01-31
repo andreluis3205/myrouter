@@ -110,7 +110,7 @@ mysql -p33#erp@myrouter#33 < /var/www/myrouter/sql/myrouter.sql 1>/dev/null 2>/d
 
 * Para acesso ao sistema via web http://IPDOSERVIDOR/myrouter/
 
-login: admin 
+login: admin </br>
 senha: 123
 
 
