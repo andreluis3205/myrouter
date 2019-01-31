@@ -39,6 +39,26 @@ https://cdimage.debian.org/cdimage/archive/8.11.0/amd64/iso-cd/debian-8.11.0-amd
 
 ```
 
+
+* Adicionar Repositório de Pacotes:
+caso tenho problema em instalar os pacotes, muito provável que seja problema com a falta de repositório do Debian, segue abaixo como adicionar os repositorio no debian para instalar os pacotes sem erro.
+
+```
+echo "deb http://ftp.br.debian.org/debian/ jessie main contrib non-free" >> /etc/apt/sources.list
+echo "deb-src http://ftp.br.debian.org/debian/ jessie main contrib non-free" >> /etc/apt/sources.list
+
+echo "deb http://security.debian.org/ jessie/updates main contrib non-free" >> /etc/apt/sources.list
+echo "deb-src http://security.debian.org/ jessie/updates main contrib non-free" >> /etc/apt/sources.list
+
+```
+
+* Atualizando a lista de repositório 
+```
+
+apt-get update
+
+```
+
 * Pacotes recomendado para instalação:
 
 ```
