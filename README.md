@@ -1,5 +1,6 @@
 # MyRouter
 
+
 Sistema ERP de Gestão de Provedores
 
 Sistema completo 100% integrado com Freeradius, integração com MikroTik e Ubiquiti,  e em fase de homologação integração com Juniper
@@ -9,6 +10,11 @@ Suporta Boletos com Registro e Sem Registro, sistema de arquivo de remessa e ret
 
 
  <img width="1833" alt="tela-inicial" src="https://user-images.githubusercontent.com/3342262/52006104-7cea0180-24b2-11e9-8e77-6ee85b64b4e0.png">
+
+
+* Forum para ajuda e dúvidas sobre o Projeto MyRouter
+
+https://www.myrouter.com.br/forums/forum/myrouter/
 
 
 # MyRouter  IMG-OVA
