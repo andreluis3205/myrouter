@@ -69,7 +69,16 @@ sed -i 's/post_max_size = 8M/post_max_size = 3G/' /etc/php5/apache2/php.ini
 sed -i 's/query_cache_size = 16M/query_cache_size  = 128M/' /etc/mysql/my.cnf
 
 ```
+* Coreção do acesso ao rootno banco de dados MariaDB
 
+```
+mysql -u root
+use mysql
+update user set plugin='' where User='root';
+flush privileges;
+exit;
+
+```
 * Configurando Mysql
 
 Criando configurando a senha do root do MySQL
