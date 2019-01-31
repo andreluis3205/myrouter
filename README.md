@@ -33,12 +33,15 @@ O sistema funciona perfeitamento no Linux Debian 8 , e a versão do PHP5.X
 
 
 * Baixe a iso no link:
+```
 
 https://cdimage.debian.org/cdimage/archive/8.11.0/amd64/iso-cd/debian-8.11.0-amd64-netinst.iso 
 
+```
 
 * Pacotes recomendado para instalação:
 
+```
 apt-get install -y tofrodos linux-headers-`uname -r` libcrypto++-dev  ntpdate libsuitesparse-dev binutils-multiarch \
 dctrl-tools snmp python reportbug ruby libgdbm-dev libiodbc2 libiodbc2-dev libkrb5-dev libldap2-dev \ 
 libpam0g-dev libpcap-dev libpcap0.8 libpcap0.8-dev libpq-dev libsasl2-dev libsensors4-dev python-dev zlib1g-dev \ 
@@ -48,6 +51,7 @@ libdbd-mysql libdbd-mysql-perl  python2.7 python2.7-dev mariadb-client mariadb-s
 perl libwww-perl freeradius freeradius-common freeradius-dbg freeradius-mysql freeradius-utils libfreeradius-dev \ libfreeradius2 ntp fail2ban libxml2-dev uuid-dev libjansson4 libjansson-dev libmyodbc unixodbc-bin subversion libnewt-dev \ sqlite3 libsqlite3-dev uuid uuid-dev libogg-dev libvorbis-dev libcurl4-openssl-dev libical-dev libneon27-dev \ 
 doxygen python-dev libncurses5-dev rrdtool build-essential pkg-config
 
+```
 
 # Telas do MyRouter
 
