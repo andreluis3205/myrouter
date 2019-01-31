@@ -62,17 +62,16 @@ apt-get update
 * Pacotes recomendado para instalação:
 
 ```
-apt-get install -y tofrodos linux-headers-`uname -r` libcrypto++-dev  ntpdate libsuitesparse-dev binutils-multiarch \
-dctrl-tools snmp python reportbug ruby libgdbm-dev libiodbc2 libiodbc2-dev libkrb5-dev libldap2-dev \ 
-libpam0g-dev libpcap-dev libpcap0.8 libpcap0.8-dev libpq-dev libsasl2-dev libsensors4-dev python-dev zlib1g-dev \ 
-libssh2-1-dev libssh2-php libfreeradius-client2 rrdtool sudo autotools-dev autoconf g++ libperl-dev libtool \
-guile-2.0-dev gcc apache2 libapache2-mod-php5 php5 php5-fpm php5-xcache php5-memcache php5-memcached  memcached php5-mysql \
-php5-cli php5-curl php5-mcrypt php5-imap php-pear php-db php-mail php-mail-mime php-net-smtp php5-cgi php5-dev php5-rrd \
-php5-gd php5-pgsql libcurl4-openssl-dev openssl perl dh-make-perl tk8.5 tk8.5-dev zlibc sysstat locales ntpdate libdbd-mysql libdbd-mysql-perl  python2.7 python2.7-dev mariadb-client mariadb-server liblua5.1-0 liblua5.1-0-dev \
-perl libwww-perl freeradius freeradius-common freeradius-dbg freeradius-mysql freeradius-utils libfreeradius-dev \
-libfreeradius2 ntp fail2ban libxml2-dev uuid-dev libjansson4 libjansson-dev libmyodbc unixodbc-bin subversion libnewt-dev \
-sqlite3 libsqlite3-dev uuid uuid-dev libogg-dev libvorbis-dev libcurl4-openssl-dev libical-dev libneon27-dev \ 
-doxygen python-dev libncurses5-dev rrdtool build-essential pkg-config
+apt-get install -y tofrodos linux-headers-`uname -r` libcrypto++-dev  ntpdate libsuitesparse-dev binutils-multiarch dctrl-tools snmp python python-soappy \
+reportbug ruby libgdbm-dev libiodbc2 libiodbc2-dev libkrb5-dev libldap2-dev libpam0g-dev libpcap-dev libpcap0.8 libpcap0.8-dev libpq-dev libsasl2-dev libsensors4-dev \
+python-dev zlib1g-dev libssh2-1-dev libssh2-php libfreeradius-client2 rrdtool sudo autotools-dev build-essential autoconf g++ libperl-dev libtool guile-2.0-dev gcc \
+apache2 libapache2-mod-php5 php5 php5-fpm php5-xcache php5-memcache php5-memcached  memcached php5-mysql php5-cli php5-curl php5-mcrypt php5-imap php-pear php-db php-mail \
+php-mail-mime php-net-smtp php5-cgi php5-dev php5-rrd  php5-gd php5-pgsql libcurl4-openssl-dev openssl perl dh-make-perl python-mysqldb pan unzip tk8.5 tk8.5-dev zlibc \
+sysstat locales ntpdate libdbd-mysql libdbd-mysql-perl  python2.7 python2.7-dev mariadb-client mariadb-server mc liblua5.1-0 liblua5.1-0-dev perl libwww-perl sox mpg123 \
+freeradius freeradius-common freeradius-dbg freeradius-mysql freeradius-utils libfreeradius-dev libfreeradius2 ntp fail2ban libxml2-dev uuid-dev libjansson4 libjansson-dev \
+libmyodbc unixodbc-bin subversion bison flex libnewt-dev sqlite3 libsqlite3-dev uuid uuid-dev libasound2-dev libogg-dev libvorbis-dev libcurl4-openssl-dev libical-dev \
+libneon27-dev libsrtp0-dev libspandsp-dev libiksemel-dev libiksemel-utils libiksemel3 doxygen python-dateutil python-protobuf python-pycryptopp python-argparse python-dev \
+libncurses5-dev python-pip mrtg rrdtool build-essential pkg-config
 
 ```
 
