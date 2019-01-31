@@ -57,6 +57,19 @@ doxygen python-dev libncurses5-dev rrdtool build-essential pkg-config
 
 ```
 
+* Customizar o PHP e MySQL para ter mais performace:
+
+```
+sed -i 's/max_execution_time = 30/max_execution_time = 3000/' /etc/php5/apache2/php.ini
+sed -i 's/display_errors = On/display_errors = Off/' /etc/php5/apache2/php.ini
+sed -i 's/max_input_time = 60/max_input_time = 600/' /etc/php5/apache2/php.ini
+sed -i 's/memory_limit = 128M/memory_limit = 2048M/' /etc/php5/apache2/php.ini
+sed -i 's/upload_max_filesize = 2M/upload_max_filesize = 3G/' /etc/php5/apache2/php.ini
+sed -i 's/post_max_size = 8M/post_max_size = 3G/' /etc/php5/apache2/php.ini
+sed -i 's/query_cache_size = 16M/query_cache_size  = 128M/' /etc/mysql/my.cnf
+
+```
+
 # Telas do MyRouter
 
 Cadastro de planos de acesso, na mesma tela voce pode cadastrar planos e compartilhar com uso de MikroTik, Ubiquiti e Juniper
