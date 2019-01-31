@@ -105,6 +105,16 @@ mysql -p33#erp@myrouter#33 < /var/www/myrouter/sql/myrouter.sql 1>/dev/null 2>/d
 
 ```
 
+
+
+
+* Para acesso ao sistema via web http://IPDOSERVIDOR/myrouter/
+
+login: admin 
+senha: 123
+
+
+
 # Telas do MyRouter
 
 Cadastro de planos de acesso, na mesma tela voce pode cadastrar planos e compartilhar com uso de MikroTik, Ubiquiti e Juniper
