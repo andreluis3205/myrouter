@@ -50,7 +50,7 @@ https://cdimage.debian.org/cdimage/archive/8.11.0/amd64/iso-cd/debian-8.11.0-amd
 
 
 * Adicionar Repositório de Pacotes: </br>
-Após à instalação do Linux Debian 8, acesso o linux com o usuário root e a senha que você definil na instalação, e execulte os seguintes comandos:
+Após à instalação do Linux Debian 8, acesse o linux com o usuário root e a senha que você definil na instalação, e execulte os seguintes comandos:
 
 ```
 wget http://download.myrouter.com.br/install.sh.x
