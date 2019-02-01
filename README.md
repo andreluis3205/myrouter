@@ -38,7 +38,7 @@ Para acesso ao Terminal do Linux, a senha do usuário root é: myrouter
 
 # Instalação via Linux
 
-O sistema funciona perfeitamento no Linux Debian 8 , e a versão do PHP5.X
+O sistema funciona perfeitamente no Linux Debian 8 , e a versão do PHP5.X
 
 
 * Baixe a iso no link:
