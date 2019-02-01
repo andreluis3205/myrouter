@@ -68,6 +68,7 @@ senha: 123
 
 # Videos
 
+[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/MfXC1TEtT3w/0.jpg)](https://www.youtube.com/watch?v=MfXC1TEtT3w)
 
 # Telas do MyRouter
 
