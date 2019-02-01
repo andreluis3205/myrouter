@@ -15,9 +15,9 @@ DATABASE="myrouter"				# Banco de dados para backup
 
 # Configuracoes servidor ftp - backup remoto
 
-FTP="ftp.myrouter.com.br"			# Endereco servidor ftp
-USER_FTP="myrouterbackup"			# Usuario ftp
-PASSWORD_FTP="33#sysadmin#33"			# Senha ftp
+FTP="ftp.site.com.br"			# Endereco servidor ftp
+USER_FTP="login"			# Usuario ftp
+PASSWORD_FTP="12345"			# Senha ftp
 
 
 mysqldump -h $HOST -u $USER -p$PASSWORD $DATABASE > $CAMINHO$NOME
