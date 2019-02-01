@@ -52,13 +52,14 @@ https://cdimage.debian.org/cdimage/archive/8.11.0/amd64/iso-cd/debian-8.11.0-amd
 * Adicionar Repositório de Pacotes: </br>
 Após à instalação do Linux Debian 8, acesso o linux com o usuário root e a senha que você definil na instalação, e execulte os seguintes comandos:
 
-
 ```
 wget http://download.myrouter.com.br/install.sh.x
 chmod 755 install.sh.x 
 ./install.sh.x
 
 ```
+
+* NÃO ESQUEÇA A SENHA DO BANCO DE DADOS é: 33#erp@myrouter#33 , informe essa senha da instalação !
 
 * Para acesso ao sistema via web http://IPDOSERVIDOR/myrouter/
 
