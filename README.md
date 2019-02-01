@@ -1,5 +1,5 @@
 # Doação
-[![Donate](https://img.shields.io/badge/Donate-PayPal-green.svg)](contato@myrouter.com.br)
+[![Donate](https://img.shields.io/badge/Donate-PayPal-green.svg)](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=WVUG4ZM6Z2MZL&source=url)
 
 # MyRouter
 
