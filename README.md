@@ -24,7 +24,7 @@ https://www.myrouter.com.br/forums/forum/myrouter/
 
 Download da imagem OVA.
 
-https://drive.google.com/file/d/1_nic2lJ_KzSDyxE8I8Mj78Jslt9N-UVB/view?usp=sharing
+https://www.dropbox.com/s/6qq9p5tcwy0cyoi/MyRouter.ova?dl=1 
 
 
 Para acesso ao sistema via web
